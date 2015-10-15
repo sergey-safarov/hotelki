@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Hotelki'
+project = u'Хотелки клиентов'
 copyright = u'2015, Sergey Safarov'
 
 # The version info for the project you're documenting, acts as replacement for
